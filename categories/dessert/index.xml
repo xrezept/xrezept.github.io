@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dessert on Simonas Rezeptesammlung</title>
+    <link>http://xrezept.github.io/categories/dessert/</link>
+    <description>Recent content in Dessert on Simonas Rezeptesammlung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://xrezept.github.io/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CUOCA, PANETTIERA, PASTICCERA - SIMONA on Simonas Rezeptesammlung</title>
+    <link>http://xrezept.github.io/</link>
+    <description>Recent content in CUOCA, PANETTIERA, PASTICCERA - SIMONA on Simonas Rezeptesammlung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://xrezept.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dan Dan Nudeln</title>
+      <link>http://xrezept.github.io/recipes/dandannoodles/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://xrezept.github.io/recipes/dandannoodles/</guid>
+      <description>Zutaten:  250g? Mehl (mit viel Gluten/Protein) Olivenöl Wasser Salz 3EL Tahini 1 EL chilli öl 1-2 EL Sojasauce 2 grosse Knoblauchzehen gepresst 4EL Salzwasser Chiliflocken nach belieben 250g Schweinsgehacktes 4cm Ingwer kleingehackt 2 grosse Knoblauchzehen kleingehackt 2 EL Soyasauce bisschen Pfeffer 1-2 EL Szechuanpfeffer 1-2 Frühlingszwiebeln Scharfe, eingelegte Daikon (Radish) 8 kleine Pak Choi Nostrano Gurke  Vorgehen: Zuerst mit dem Marinieren des Fleisches beginnen. Danach den Teig für die Nudeln machen.</description>
+    </item>
+    
+    <item>
+      <title>Eine neue Kochwebseite für Simona</title>
+      <link>http://xrezept.github.io/posts/new-cooking-website/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://xrezept.github.io/posts/new-cooking-website/</guid>
+      <description>In den kommenden Wochen werden dieser Webseite folgende Funktionalitäten hinzugefügt:
+ Suche Tags Kommentarfeld für jedes Rezept Kontaktformular Weitere Metadaten zu jedem Rezept, wie Kochzeit etc.  </description>
+    </item>
+    
+    <item>
+      <title>Älplermagrone</title>
+      <link>http://xrezept.github.io/recipes/%C3%A4lplermagrone/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://xrezept.github.io/recipes/%C3%A4lplermagrone/</guid>
+      <description>Zutaten:  350g Pasta 350g festkochende Kartoffeln  Vorgehen:  Appenzeller Käse mit einer Röstiraffel zerkleinern Die Zwiebeln in längliche Streifen schneiden Den Knochlauch schälen und in feine Stücke schneiden Die Kartoffeln schälen und in kleine Würfel (1cm) schneiden Wasser salzen und aufkochen. Danach die Kartoffeln beigeben. 5 Minuten später die Älplermagronen dazugeben und nach Packungsbeilage kochen. Ofen auf 70° vorheizen. Sobald die Magronen fertig sind, das Wasser ableeren und den Boden der Schüssel mit ihnen bedecken.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://xrezept.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xrezept.github.io/contact/</guid>
+      <description>Diese Funktionalität kommt zu einem späteren Zeitpunkt.</description>
+    </item>
+    
+    <item>
+      <title>Suche</title>
+      <link>http://xrezept.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xrezept.github.io/search/</guid>
+      <description>https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae</description>
+    </item>
+    
+  </channel>
+</rss>
