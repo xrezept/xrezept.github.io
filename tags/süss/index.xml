@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dessert on Simonas Rezeptesammlung</title>
-    <link>http://xrezept.github.io/categories/dessert/</link>
-    <description>Recent content in Dessert on Simonas Rezeptesammlung</description>
+    <title>süss on Simonas Rezeptesammlung</title>
+    <link>http://xrezept.github.io/tags/s%C3%BCss/</link>
+    <description>Recent content in süss on Simonas Rezeptesammlung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://xrezept.github.io/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://xrezept.github.io/tags/s%C3%BCss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@
       <guid>http://xrezept.github.io/recipes/nektarinen-streuselkuchen/</guid>
       <description>Zutaten:  ~150g Butter 120g Zucker 3 Eier 1 Päckli Vanillezucker 1 KL Änispulver 160-180g Mehl 1 EL Backpulver 3-4 reife Nektarinen  Topping: - 110-120g feine Haferfköckli - 30-40g Zucker - ~50g Butter
 Vorgehen:  Wie jeder normale Kuchen Nektarinen in kleine Stücke schneiden Runde Kuchenform mit Teig füllen, dann die Nektarinen schön gleichmässig darüberverteilen bis Teig komplett zugedeckt ist Butter schmelzen und in einer separaten Schüssel zum Haferflocken Zucker Mix geben oder alles in einer Bratpfanne machen Kuchen bei 180°C für ca.</description>
-    </item>
-    
-    <item>
-      <title>Ur-Dinkel Wähenteig</title>
-      <link>http://xrezept.github.io/recipes/urdinkel-w%C3%A4henteig/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://xrezept.github.io/recipes/urdinkel-w%C3%A4henteig/</guid>
-      <description>Zutaten:  500g Ur-Dinkelmehl mit 20% Schrot 180g Butter 2dl Wasser 1 EL Essig 2 TL Salz (leicht gehäuft)  Vorgehen:  Mehl und Salz in eine Schüssel geben und gut mischen Kalte Butter in kleine Stücke schneiden und unters Mehl mischen (mit Händen) Butter mit Mehl zerreiben (Mürbeteig) bis eine bröcklige Masse entsteht und der Butter ganz zerrieben ist Essig und Wasser hinzufügen und kurz zu einem Teig zusammenfügen (nicht kneten!</description>
     </item>
     
   </channel>
