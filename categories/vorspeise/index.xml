@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vorspeise on Simonas Rezeptesammlung</title>
-    <link>http://xrezept.github.io/categories/vorspeise/</link>
+    <link>https://xrezept.github.io/categories/vorspeise/</link>
     <description>Recent content in Vorspeise on Simonas Rezeptesammlung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://xrezept.github.io/categories/vorspeise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xrezept.github.io/categories/vorspeise/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
